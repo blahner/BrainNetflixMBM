@@ -3,14 +3,14 @@ Masked Brain Modeling code for "Brain Netflix: Scaling Data to Reconstruct Video
 
 [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03816.pdf) | [Project Page](https://blahner.github.io/BrainNetflixECCV/)
 
-### Usage
+## Usage
 
 
-### Pretrained models
+## Pretrained models
 You can download pretrained models in this Google drive [link](https://drive.google.com/drive/folders/1yt7JqVm5tv13JEx--FRfFMPYV9ENF8Y3?usp=sharing)
 
 
-### Citation
+## Citation
 ```
 @inproceedings{fosco2024brain,
   title={Brain Netflix: Scaling Data to Reconstruct Videos from Brain Signals},
