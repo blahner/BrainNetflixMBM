@@ -1,8 +1,7 @@
 # BrainNetflixMBM
 Masked Brain Modeling code for "Brain Netflix: Scaling Data to Reconstruct Videos from Brain Signals"
-[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03816.pdf)
 
-[Project Page](https://blahner.github.io/BrainNetflixECCV/)
+[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03816.pdf) | [Project Page](https://blahner.github.io/BrainNetflixECCV/)
 
 ### Usage
 
