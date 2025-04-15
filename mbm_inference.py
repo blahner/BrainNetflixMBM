@@ -56,7 +56,7 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser('MBM inference for fMRI', add_help=False)
     parser.add_argument('--pretrain_model', type=str)
-    parser.add_argument('--roi_list', type=str, default='./roi_list/roi_list_reduced23.txt')
+    parser.add_argument('--roi_list', type=str, default='./roi_list/roi_list_reduced41.txt')
     parser.add_argument('--dataset_path', type=str, default='/gpfs/u/home/SIFA/SIFApnbw/scratch/mind-vis/data/bmd')
 
     args = parser.parse_args()
